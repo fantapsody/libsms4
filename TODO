@@ -1,0 +1,19 @@
+TODO
+====
+
+Befone the version 1.0
+
+ 0. Automake
+ 1. Benchmark and micro-benchmark
+ 2. ECB/CBC/CTR modes and others
+ 3. VC++ Project, expecially VC++6
+ 4. Documents, Chinese version
+ 5. Upload to GitHub and SourceForge
+
+Future
+ 1. ASM code
+ 2. Patches to OpenSSL
+ 3. Patches to Linux Crypto-API
+ 4. Patches to PKCS #11
+
+
